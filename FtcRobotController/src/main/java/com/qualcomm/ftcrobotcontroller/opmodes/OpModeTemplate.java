@@ -20,6 +20,8 @@ public class OpModeTemplate extends HardwareBaseTemplate {
         telemetry.addData("Config File","CutieBot");
         telemetry.addData("Opmode Version",version);
         telemetry.addData("HWB Version",hwbVersion);
+
+        setupHardware();
     }
 
     @Override

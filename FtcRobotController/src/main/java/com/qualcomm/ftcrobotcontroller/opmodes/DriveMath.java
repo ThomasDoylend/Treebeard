@@ -3,7 +3,8 @@ package com.qualcomm.ftcrobotcontroller.opmodes;
 /**
  * Created by tdoylend on 2015-12-20.
  *
- *
+ * This class provides useful static methods for
+ * various drive-related maths.
  */
 public class DriveMath {
 
